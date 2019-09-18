@@ -10,3 +10,4 @@ Chapter 9 - Repeating Steps with Strings
    modify.rst
    summary.rst
    Exercises.rst
+   mixedUp.rst
