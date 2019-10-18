@@ -11,4 +11,5 @@ Chapter 7 - Computers can Repeat Steps
    accumPattern.rst
    print.rst
    summary.rst
+   mixUpRepeats.rst
    Exercises.rst

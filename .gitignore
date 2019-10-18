@@ -1,4 +1,5 @@
 build/
-pavement.pyc
+pavement.py
+__pycache__/pavement.cpython-37.pyc
 *.swp
 .DS_Store
